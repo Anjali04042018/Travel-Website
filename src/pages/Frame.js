@@ -122,7 +122,7 @@ const Frame = () => {
       <div class="wrapper">
         <p class="helpline-title">For Further Inquires :</p>
 
-        <p class="helpline-number">+91-6267132693</p>
+        <p class="helpline-number">7766032958</p>
       </div>
 
     </a>
@@ -796,13 +796,13 @@ const Frame = () => {
         <li class="contact-item">
           <ion-icon name="call-outline"></ion-icon>
 
-          <a href="tel:+01123456790" class="contact-link">+91-6267132693</a>
+          <a href="tel:+01123456790" class="contact-link">7766032958</a>
         </li>
 
         <li class="contact-item">
           <ion-icon name="mail-outline"></ion-icon>
 
-          <a href="mailto:info.tourly.com" class="contact-link">shivssoni55@gmail.com</a>
+          <a href="mailto:info.tourly.com" class="contact-link">anjali04042018@gmail.com</a>
         </li>
 
         <li class="contact-item">
@@ -836,7 +836,7 @@ const Frame = () => {
   <div class="container">
 
     <p class="copyright">
-      &copy; 2024 <a href="">ShivScripter</a>. All rights reserved
+      &copy; 2024 <a href="">Scripter</a>. All rights reserved
     </p>
 
     <ul class="footer-bottom-list">
