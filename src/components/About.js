@@ -40,17 +40,17 @@ const About = () => {
                 <strong>Address:</strong> 144411 Phagwara, Jalandhar, India
             </li>
             <li>
-                <strong>Phone:</strong> <a href="tel:+91-6267132693">+91-6267132693</a>
+                <strong>Phone:</strong> <a href="tel:7766032958">7766032958</a>
             </li>
             <li>
-                <strong>Email:</strong> <a href="mailto:shivssoni55@gmail.com">shivssoni55@gmail.com</a>
+                <strong>Email:</strong> <a href="mailto:anjali04042018@gmail.com">anjali04042018@gmail.com</a>
             </li>
         </ul>
         <p>Thank you for using Tourly!</p>
     </div>
 
     <footer>
-        <p>&copy; 2023 ShivScripter. All rights reserved.</p>
+        <p>&copy; 2023 Scripter. All rights reserved.</p>
     </footer>
     </div>
   );
