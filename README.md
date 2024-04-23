@@ -1,9 +1,7 @@
 # Tourly
 project name: Tourly
 my website, named "Tourly - Travel Agency," aims to solve the problem of helping users plan and book their travel experiences.
-# Front End Link: https://tourly-master.netlify.app/
-# Figma Design Link: https://www.figma.com/file/CdxyrF4yzbKLbngUAPG6S7/Untitled?type=design&node-id=1-2&mode=design&t=zM0EsdRC7NZVUN1X-0
-# Find out more about deployment here: https://create-react-app.dev/docs/deployment/
+# Front End Link: https://travel-website-lpu.netlify.app/
 
 # Here are some key features and indications of the problems your website is addressing:
 1. Travel Packages: The website offers various travel packages, including popular destinations, packages, and exclusive travel experiences. This helps users who are looking for pre-planned itineraries and curated travel options.
